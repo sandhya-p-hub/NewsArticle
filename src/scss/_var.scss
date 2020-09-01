@@ -1,0 +1,24 @@
+:root {
+    --html-font-size: 100%;
+    --base-spacing: 1rem;
+
+    --half-spacing: calc(var(--base-spacing) / 2);
+    --quarter-spacing: calc(var(--base-spacing) / 4);
+    --unit-spacing: calc(var(--base-spacing) / 8);
+
+    --font-size-small: 0.625rem;
+    --font-size-regular: 0.875rem;
+
+    --body-text-color: #828282;
+
+    --header-bg: #ff6600;
+
+    --hover-color: var(--body-text-color);
+
+    --gray-1: #fdfdf9;
+    --gray-2: #f6f6ef;
+    --gray-3: #c5c5c0;
+    --disabled: #ccc;
+
+    --font-family: Verdana, Geneva, sans-serif;
+}
